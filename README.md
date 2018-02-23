@@ -27,7 +27,7 @@ Output:
 * If positive (+) then
 * Make it negative (-) by array[abs[array[i]]] = - array[abs[array[i]]]
 * Else // i.e., A[abs(A[i])] is negative
-* this element (ith element of the array) is a repetition
+* This element (ith element of the array) is a repetition
 
 ## Solution
 
